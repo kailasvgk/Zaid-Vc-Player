@@ -36,9 +36,9 @@ else:
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 BOT_NAME = getenv("BOT_NAME", "DarshanaXMusic")
 
-API_ID = int(getenv("API_ID", "28416584"))
-API_HASH = getenv("API_HASH", "f224c57df76b4114a89ea332aa24c6db")
-MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://Cloner:Cloner@cluster0.cgc6t.mongodb.net/?retryWrites=true&w=majority")
+API_ID = int(getenv("API_ID", "22029156"))
+API_HASH = getenv("API_HASH", "7c7d75736193b71d40b00dc0b0981725")
+MONGO_DB_URL = getenv("MONGO_DB_URL", "mongodb+srv://kailasvg:kailasvg@cluster04.gvju7bn.mongodb.net/?retryWrites=true&w=majority")
 OWNER_NAME = getenv("OWNER_NAME", "Kailas")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "kailas_vg")
 ALIVE_NAME = getenv("ALIVE_NAME", "Kailas")
